@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kenechukwu</h1>
-<p>As a DevOps and Cloud Engineer, I bring extensive expertise in managing seamless deployments and optimizing cloud infrastructures. My skill-set includes mastery of technologies like Kubernetes, Karpenter, Docker, Terraform, and the AWS Cloud Platform. Fueled by a passion for tackling challenges in complex distributed systems, I excel at designing scalable and resilient solutions that drive business success in the digital era. </p>
+<p>As a DevOps Engineer, I bring extensive expertise in managing seamless deployments and optimizing cloud infrastructures. My skill-set includes mastery of technologies like Kubernetes, Karpenter, Docker, Terraform, and the AWS Cloud Platform. Fueled by a passion for tackling challenges in complex distributed systems, I excel at designing scalable and resilient solutions that drive business success in the digital era. </p>
 
 <p> Beyond technical work, I am deeply committed to sharing knowledge and fostering community growth. My toolkit includes proficiency in technologies such as Kubernetes, Karpenter, Docker, Terraform, and AWS Cloud Platform.</p>
 
