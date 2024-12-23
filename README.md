@@ -3,9 +3,6 @@
 
 <p> Beyond technical work, I am deeply committed to sharing knowledge and fostering community growth. My toolkit includes proficiency in technologies such as Kubernetes, Karpenter, Docker, Terraform, and AWS Cloud Platform.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devblaise&label=Profile%20views&color=0e75b6&style=flat" alt="devblaise" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devblaise" alt="devblaise" /></a> </p>
 
 - 📝 I write articles on [https://medium.com/@blaisembadugha](https://medium.com/@blaisembadugha)
 
