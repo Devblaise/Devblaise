@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kenechukwu</h1>
-<p>A web developer transitioned into a Cloud Engineer, I bring extensive expertise in managing seamless deployments and optimizing cloud infrastructures. My skill-set includes mastery of Cloud technologies like Kubernetes, Docker, CircleCI, Jenkins, Terraform, and the AWS Cloud Platform. Fueled by a passion for tackling challenges in complex distributed systems, I excel at designing scalable and resilient solutions that drive business success in the digital era. Beyond technical work, I am deeply committed to sharing knowledge and fostering community growth. </p>
+<p>A Cloud DevOps Engineer, I bring extensive expertise in managing seamless deployments and optimizing cloud infrastructures. My skill-set includes mastery of Cloud technologies like Kubernetes, Docker, CircleCI, Jenkins, Terraform, and the AWS Cloud Platform. Fueled by a passion for tackling challenges in complex distributed systems, I excel at designing scalable and resilient solutions that drive business success in the digital era. Beyond technical work, I am deeply committed to sharing knowledge and fostering community growth. </p>
 
 - 📝 I write articles on [https://medium.com/@blaisembadugha](https://medium.com/@blaisembadugha)
 
