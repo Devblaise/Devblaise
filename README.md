@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kenechukwu</h1>
+<h1 align="center">Hi There 👋, I'm Kenechukwu</h1>
 <p>A Software Developer transitioned into Cloud DevOps, with a strong passion for designing and implementing efficient Cloud DevOps solutions. Enthusiastic about driving innovation through cutting-edge projects, I bring a solid skill set in leveraging cloud technologies and tools, including Kubernetes, Docker, CircleCI, Jenkins, Terraform, and the AWS Cloud Platform.</p>
 
 <h3 align="left">Languages and Tools:</h3>
