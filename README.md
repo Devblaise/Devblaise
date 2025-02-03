@@ -1,5 +1,5 @@
 <h2 align="center">Hi there 👋 I'm Kene</h2>
-<p> Skilled DevOps Engineer with over 4 years of experience in automating infrastructure, optimizing CI/CD pipelines, and deploying scalable solutions in cloud environments. Demonstrated expertise in Terraform, Docker, Kubernetes, and monitoring tools like Prometheus and Grafana. 
+<p> A Skilled DevOps Engineer with experience in automating infrastructure, optimizing CI/CD pipelines, and deploying scalable solutions in cloud environments. Demonstrated expertise in Terraform, Docker, Kubernetes, and monitoring tools like Prometheus and Grafana. 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
